@@ -1,13 +1,18 @@
-### Recipe APP
+# Recipe App 🍽
 
-It's a little Recipe App where you can search for recipes:
+It's a small Recipe App where user can search for recipes.
 
-- Get meal by id 
-- Get Random Meal
-- Search by name
+## Functionalities: 
+- User can get meal by id 
+- User can get random meal
+- User can search recipe by name
+- Add meal recipes to favorites
+- Remove recipies from favorites
 
-Technologies used:
+## Tools & Technologies used:
 - HTML
 - CSS
 - JavaScript
-- The Meal DB API to fetch data.
+- The Meal DB API to fetch data
+
+Get in touch with me on [twitter](https://twitter.com/ishratUmar18) :)
