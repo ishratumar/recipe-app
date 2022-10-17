@@ -15,6 +15,6 @@ It's a small Recipe App where user can search for recipes.
 - JavaScript
 - The Meal DB API to fetch data
 
-Live Demo 👉🏻 [Recipe App](ishrat-recipe-app.netlify.app) <br>
+Live Demo 👉🏻 [Recipe App](https://ishrat-recipe-app.netlify.app/) <br>
 
 Get in touch with me on [twitter](https://twitter.com/ishratUmar18) :)
